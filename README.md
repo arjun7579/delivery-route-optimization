@@ -58,8 +58,8 @@ Key objectives:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/delivery-optimization.git
-   cd delivery-optimization
+   git clone https://github.com/arjun7579/delivery-roue-optimization.git
+   cd delivery-route-optimization
    ```
 2. Install Dependencies
 
