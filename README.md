@@ -91,10 +91,10 @@ Key objectives:
 <img width="393" height="405" alt="image" src="https://github.com/user-attachments/assets/b95f6028-30dc-4587-8e8b-464c24fb20f6" />
 
 4. Using Actual Road Network - VRP (2 riders)
-   <img width="417" height="350" alt="image" src="https://github.com/user-attachments/assets/de164a2d-5850-46b0-8609-34eb44919341" />
+<img width="417" height="350" alt="image" src="https://github.com/user-attachments/assets/de164a2d-5850-46b0-8609-34eb44919341" />
 
-5. Using Actual Road Network - VRP (3 riders)
-   <img width="439" height="382" alt="image" src="https://github.com/user-attachments/assets/938b2120-dab2-49db-8dee-2360921ba0ec" />
+6. Using Actual Road Network - VRP (3 riders)
+<img width="439" height="382" alt="image" src="https://github.com/user-attachments/assets/938b2120-dab2-49db-8dee-2360921ba0ec" />
 
 ---
 ## 🏁 Conclusion  
